@@ -2,7 +2,10 @@ import argparse
 import json
 import random
 
-from src.common.utils import Post
+
+class Post:
+    text: str
+    name: str
 
 
 def import_data(file: str):
