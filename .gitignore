@@ -1,3 +1,7 @@
+submission/
+
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyer_notebook,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyer_notebook,visualstudiocode
 
@@ -195,5 +199,4 @@ pyrightconfig.json
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyer_notebook,visualstudiocode
-"
 "
